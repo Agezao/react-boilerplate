@@ -23,7 +23,7 @@ Simple React starting point with production ready features.
 * [Node.js](http://nodejs.org)
 
 ### Running this
-* clone the repo `git clone https://~your.bitbucket.id~@bitbucket.org/fclabs/ui-01-app.git`
+* clone the repo `git clone https://github.com/Agezao/react-boilerplate.git`
 * cd to project folder ie. `cd c:/dev/my.project/ui-01-app`
 * run `[sudo] npm install` (first time users)
 * to just run, run `[sudo] npm start`
